@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0  auto;
+}
+
+header {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    line-height: 90px;
+}
+
+.avatar {
+    float: right;
+}
+
+ol>li {
+    margin: 10px 20px;
+}
+
+.contacts {
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+ol>li:nth-child(3) {
+    margin-top: 20px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.js {
+    background-color: rgb(206, 220, 226);
+    width: 50%;
+    cursor: pointer;
+}
+
+
