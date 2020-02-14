@@ -1,7 +1,7 @@
 # rsschool-cv
 1. Aleksandr Chubukov
 2. Contacts:
-	1. Phone: 
+	1. Phone: 8-912-447-99-55
 	2. VK: https://vk.com/ronic404
 	3. Instagram: https://www.instagram.com/ronic404
 	4. Discord: Ronic404#8814
